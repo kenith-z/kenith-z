@@ -4,7 +4,6 @@
 - 📫 Reach me zhang@hcworld.xyz.  
 - My blog is [张红尘的博客](https://www.hcworld.xyz).
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kenith-z)
-![Stats](./profile/stats.svg)
+![Stats](./profile/stats.svg)  
 ![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
+
