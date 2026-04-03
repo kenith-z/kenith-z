@@ -5,3 +5,4 @@
 - My blog is [张红尘的博客](https://www.hcworld.xyz).
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kenith-z)
+![Stats](./profile/stats.svg)
